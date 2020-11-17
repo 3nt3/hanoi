@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=tvh
+comment1.params=
+comment1.target=tvh()
+comment2.params=
+comment2.target=void\ initGui()
+comment3.params=k
+comment3.target=void\ bearbeiteKnopfDruck(basis.Knopf)
+numComments=4
