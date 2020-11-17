@@ -2,7 +2,6 @@
 /*
  * Klasse tvh 
  *
- * Roland Stiebel 
  * version 1.0
  */
 
